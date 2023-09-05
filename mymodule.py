@@ -1,2 +1,3 @@
-def wassap (name):
-    print ("Hello my name is " + name)
+def wassap():
+    print("Nice to meet you !!!!")
+
